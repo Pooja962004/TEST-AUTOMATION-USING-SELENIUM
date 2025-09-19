@@ -65,7 +65,7 @@ pytest --html=reports/report.html --self-contained-html
 
 #OUTPUT
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a5c5d9eb-b77b-41f6-935c-f5be3e82cda2" />
+![Alt text](<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a5c5d9eb-b77b-41f6-935c-f5be3e82cda2" />)
 
 
 
