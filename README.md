@@ -65,7 +65,8 @@ pytest --html=reports/report.html --self-contained-html
 
 #OUTPUT
 
-![Report Output](report_output.png)
+![Report Output](https://github.com/user-attachments/assets/8d56b26e-aa87-45d1-9a13-8cd8b391bf3e)
+
 
 
 
