@@ -12,7 +12,6 @@
 
 "MENTOR": NEELA SANTOSH
 
-
 ## Project Overview
 
 The purpose of this project is to perform **automated software testing** for a sample login functionality as part of Task 1 of the Software Testing internship program. Software testing is a crucial step in the software development lifecycle, ensuring that the application functions as intended and meets the required specifications. This project demonstrates the creation and execution of automated tests, capturing results, and generating a detailed report, which can be used to analyze the quality of the application under test.  
@@ -62,6 +61,11 @@ pytest --html=reports/report.html --self-contained-html
 ## Test Summary
 
 - Total tests: 3  
-- All tests passed 
+- All tests passed
+
+#OUTPUT
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a5c5d9eb-b77b-41f6-935c-f5be3e82cda2" />
+
 
 
