@@ -65,7 +65,8 @@ pytest --html=reports/report.html --self-contained-html
 
 #OUTPUT
 
-![Test Automation Using Selenium](./report_output.jpg)
+![Report Output](report_output.jpg)
+
 
 
 
