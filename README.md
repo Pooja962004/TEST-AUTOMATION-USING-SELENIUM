@@ -65,7 +65,8 @@ pytest --html=reports/report.html --self-contained-html
 
 #OUTPUT
 
-![img](https://github.com/user-attachments/assets/8d56b26e-aa87-45d1-9a13-8cd8b391bf3e)
+![img alt](https://github.com/Pooja962004/TEST-AUTOMATION-USING-SELENIUM/blob/d37dbb815b139da840467fef5329824ed67313e0/report_output.jpg)
+
 
 
 
