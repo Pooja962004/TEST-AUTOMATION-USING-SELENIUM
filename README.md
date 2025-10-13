@@ -43,6 +43,11 @@ The automated tests simulate real user behavior by entering valid and invalid cr
 - requirements.txt : Python dependencies
 - README.md : project description
 
+#Output
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/cf7fb7b1-2841-4431-b481-50510d3addb0" />
+
+
 ## How to Run
 
 1. Clone the repository:
@@ -63,9 +68,6 @@ pytest --html=reports/report.html --self-contained-html
 - Total tests: 3  
 - All tests passed
 
-#OUTPUT
-
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/cf7fb7b1-2841-4431-b481-50510d3addb0" />
 
 
 
